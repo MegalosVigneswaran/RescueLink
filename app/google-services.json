@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "792291380537",
+    "firebase_url": "https://rescuelink-748d6-default-rtdb.firebaseio.com",
+    "project_id": "rescuelink-748d6",
+    "storage_bucket": "rescuelink-748d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792291380537:android:b297084a7898635f65ece8",
+        "android_client_info": {
+          "package_name": "megalos.vicky.RescueLink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqJgpu84GDuCB9VURdsX-FTuA8dDGQPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

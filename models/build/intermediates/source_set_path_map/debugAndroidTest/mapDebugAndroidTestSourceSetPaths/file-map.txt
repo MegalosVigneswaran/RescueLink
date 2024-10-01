@@ -1,0 +1,5 @@
+org.vosk.models.test.models-androidTest-0 C:\Users\t8962\AndroidStudioProjects\foregroundtesting\models\build\generated\res\resValues\androidTest\debug
+org.vosk.models.test.models-mergeDebugAndroidTestResources-1 C:\Users\t8962\AndroidStudioProjects\foregroundtesting\models\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.vosk.models.test.models-mergeDebugAndroidTestResources-2 C:\Users\t8962\AndroidStudioProjects\foregroundtesting\models\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.vosk.models.test.models-debugAndroidTest-3 C:\Users\t8962\AndroidStudioProjects\foregroundtesting\models\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+org.vosk.models.test.models-debug-4 C:\Users\t8962\AndroidStudioProjects\foregroundtesting\models\build\intermediates\packaged_res\debug\packageDebugResources
